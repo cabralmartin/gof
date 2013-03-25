@@ -30,8 +30,8 @@ The application is currently deployed and running at [AppHarbour](https://apphar
 
 Libraries & Frameworks used,
 
-* [Twitter Bootstrap](http://twitter.github.com/bootstrap/) 
-* [jQuery](http://jquery.com/) 
-* [underscore](http://underscorejs.org/) 
-* [jasmine](http://pivotal.github.com/jasmine/) 
-* [requireJS](http://requirejs.org/)
+* [Twitter Bootstrap](http://twitter.github.com/bootstrap/) *UI Styling and grid*
+* [jQuery](http://jquery.com/) *DOM Manipulation*
+* [underscore](http://underscorejs.org/) *Templating*
+* [jasmine](http://pivotal.github.com/jasmine/) *Unit Testing*
+* [requireJS](http://requirejs.org/) *Module definition and Dependency Injection*
