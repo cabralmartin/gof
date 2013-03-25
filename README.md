@@ -21,7 +21,7 @@ Module definition and dependency injection is done using [RequireJS](http://requ
 
 All modules communicate between each other using the [Mediator Object](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#mediatorpatternjavascript) which allows for a loosely coupled interaction. 
 
-You can find the Unit Tests for this implementation at [/tests](http://#). [Jasmine](http://pivotal.github.com/jasmine/) and [RequireJS](http://requirejs.org/) were used for creating the tests.
+You can find the Unit Tests for this implementation at [/tests](https://github.com/cabralmartin/gof/tree/master/tests). [Jasmine](http://pivotal.github.com/jasmine/) and [RequireJS](http://requirejs.org/) were used for creating the tests.
 
 The application is currently deployed and running at [AppHarbour](https://appharbor.com/).  
 
