@@ -1,0 +1,27 @@
+.cell {
+	border: 2px solid black;
+	border-radius: 100px;
+	height: 20px;
+	width: 20px;
+}
+
+.cell.live {
+	background-color: #3a87ad;
+}
+
+.row {
+	padding-bottom: 5px;
+}
+
+#gridPlaceholder{
+	margin-left: 20px;
+}
+
+#generationBanner{
+	width: 120px;
+	margin-top: 10px;
+}
+
+body{
+	background-color: #EDEDED;
+}
