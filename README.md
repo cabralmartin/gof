@@ -23,6 +23,8 @@ All modules communicate between each other using the [Mediator Object](http://ad
 
 You can find the Unit Tests for this implementation at [/tests](https://github.com/cabralmartin/gof/tree/master/tests). [Jasmine](http://pivotal.github.com/jasmine/) and [RequireJS](http://requirejs.org/) were used for creating the tests.
 
+Code is linted with [jslint](http://www.jslint.com/)(multiple `var` usage and whitespace consistency warnings were ignored).
+
 The application is currently deployed and running at [AppHarbour](https://appharbor.com/).  
 
 **You can find the application @ <http://gof.apphb.com/>**  
